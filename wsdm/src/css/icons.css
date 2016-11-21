@@ -1,0 +1,72 @@
+.icon {
+    display: inline-block;
+    margin: 1px;
+    height: 24px;
+    width: 24px;
+    background-color: #ccc;
+    vertical-align: middle;
+    position: relative;
+}
+
+/* ICONS */
+.icon-can {
+    background: url('../images/icons/cans24.png') center bottom no-repeat;
+}
+
+.icon-battery {
+    background: url('../images/icons/batteries_24.png') center bottom no-repeat;
+}
+
+.icon-christmas {
+    background: url('../images/icons/christmas_tree24.png') center center no-repeat;
+}
+
+.icon-fluorescent {
+    background: url('../images/icons/fluorescent_tubes24.png') center center no-repeat;
+}
+
+.icon-glass {
+    background: url('../images/icons/glass24.png') center center no-repeat;
+}
+
+.icon-green_waste {
+    background: url('../images/icons/green_waste24.png') center center no-repeat;
+}
+
+.icon-paper {
+    background: url('../images/icons/paper24.png') center center no-repeat;
+}
+
+.icon-plastic {
+    background: url('../images/icons/plastic24.png') center center no-repeat;
+}
+
+.icon-polystyrene {
+    background: url('../images/icons/polystyrene_24.png') center center no-repeat;
+}
+
+.icon-textiles {
+    background: url('../images/icons/textiles24.png') center center no-repeat;
+}
+
+.icon-wasteoil {
+    background: url('../images/icons/waste_oil24.png') center center no-repeat;
+}
+
+/*!* MARKERS *!*/
+/*.leaflet-marker-icon {*/
+/*padding: 2px;*/
+/*text-align: center;*/
+/*}*/
+/*.marker-bar {*/
+/*background: url('../images/markers/bar.png') center center no-repeat;*/
+/*}*/
+/*.marker-fuel {*/
+/*background: url('../images/markers/fuel.png') center center no-repeat;*/
+/*}*/
+/*.marker-parking {*/
+/*background: url('../images/markers/parking.png') center center no-repeat;*/
+/*}*/
+/*.marker-drinking_water {*/
+/*background: url('../images/markers/drinking_water.png') center center no-repeat;*/
+/*}*/
